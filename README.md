@@ -23,3 +23,5 @@ a). npm install - this is to install the node modules for the project
 b). npm start - this is to start the server.
 4. It will show the active port on localhost where the project is running.
 5. Open in the Browser the link of the localhost. Probably localhost:4200
+
+For live preview click on the above link.
